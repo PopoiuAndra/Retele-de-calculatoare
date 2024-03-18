@@ -1,0 +1,6 @@
+sofer1:sofer
+sofer2:sofer
+sofer3:sofer
+sofer4:sofer
+sofer5:sofer
+sofer6:sofer
